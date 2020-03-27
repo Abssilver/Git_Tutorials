@@ -1,2 +1,3 @@
-dev1
-dev2
+homework task2
+edit by dev1
+edit by dev2
